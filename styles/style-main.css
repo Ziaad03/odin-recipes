@@ -1,0 +1,50 @@
+h1
+{
+    font-size: 60px;
+    color: goldenrod;
+    text-align: center;
+
+}
+body
+{
+    background-color: bisque;
+}
+.first
+{
+    background-color: cadetblue;
+   
+}
+.mid
+{
+    text-align: center;
+    background-color: brown
+    color(srgb red green blue)
+    
+}
+.last
+{
+    text-align: end;
+    background-color: tomato;
+}
+
+.text
+{
+font-size: 30px;
+
+}
+#text-2
+{
+    border: 4px darkolivegreen dotted;
+    padding: 15px ;
+    margin: 20px;
+}
+#fiesta-img
+{
+   margin: 20px;
+   margin-bottom: -5px;
+   border: 4px solid black;
+}
+#sau-img
+{
+    margin: 30px;
+}
